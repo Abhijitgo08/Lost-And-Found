@@ -5,10 +5,15 @@ A campus Lost & Found system built with PHP, MySQL, and XAMPP. Students can repo
 Features :
 
 User login and authentication
+
 Add lost items with details
+
 Add found items with a security question (e.g., “color or mark”)
+
 Search items by keywords
+
 Answer the security question (checked with fuzzy matching)
+
 Get the contact details of the founder after correct verification
 
 Tech Stack :
@@ -25,6 +30,7 @@ Import the SQL file into phpMyAdmin
 Start Apache and MySQL in XAMPP
 Open in browser at:
 http://localhost/Lost-And-Found
+
 
 
 
