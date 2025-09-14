@@ -30,7 +30,8 @@ Install XAMPP
 Copy this project folder into the htdocs directory
 Import the SQL file into phpMyAdmin
 Start Apache and MySQL in XAMPP
-Open in browser at
+Open in browser
+
 
 
 
