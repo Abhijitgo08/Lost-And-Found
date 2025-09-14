@@ -18,8 +18,8 @@ Get the contact details of the founder after correct verification
 
 Tech Stack :
 
-HTML, CSS, JavaScript
-PHP (XAMPP)
+HTML, CSS, JavaScript,
+PHP (XAMPP),
 MySQL
 
 Setup
@@ -30,6 +30,7 @@ Import the SQL file into phpMyAdmin
 Start Apache and MySQL in XAMPP
 Open in browser at:
 http://localhost/Lost-And-Found
+
 
 
 
